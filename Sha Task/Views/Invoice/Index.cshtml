@@ -1,0 +1,51 @@
+﻿@model IEnumerable<InvoiceDetail>
+
+@{
+    ViewData["Title"] = "Invoice";
+}
+<div id="PlaceHolderHere"></div>
+<button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#addinvoice"
+data-url="@Url.Action("Create")">
+   Add Invoice
+</button>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-12 col-xs-6 border-primary mb-3">
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-12">
+                        <div class="card-header text-white bg-info">
+                            <p class="card-text">
+                                <h5 class="card-title">
+                                    @item.ItemName
+                                 
+                                </h5>
+                            </p>
+                        </div>
+                    </div>
+                  
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <p class="card-text">@item.ItemPrice</p>
+                            <p class="card-text"><b>Cinema: </b>@item.ItemCount</p>
+                            <p class="card-text"><b>Category: </b>@item.InvoiceHeader.Branch.BranchName</p>
+                            <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#editinvoice"
+                                    data-url="@Url.Action($"Edit/{item.Id}")">
+                                Edit
+                            </button>
+
+                            <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#deleteinvoice"
+                                    data-url="@Url.Action($"Delete/{item.Id}")">
+                                Delete
+                            </button>
+                        </div>
+                    </div>
+         
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

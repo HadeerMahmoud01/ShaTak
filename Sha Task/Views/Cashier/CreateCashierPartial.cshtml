@@ -1,0 +1,49 @@
+﻿@model Cashier
+
+<div class="modal fade" id="addcashier">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addcashierlabel">Add Cashier</h4>
+                <button type="button" id="xicon" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+
+            </div>
+            <div class="modal-body">
+                <form action="@Url.Action("Create")" method="post" id="createForm">
+                    <div class="form-group">
+                        <label asp-for="CashierName"></label>
+                        <input asp-for="CashierName" class="form-control" />
+                        <span asp-validation-for="CashierName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Branch.BranchName"></label>
+                        <input asp-for="Branch.BranchName" class="form-control" />
+                        <span asp-validation-for="Branch.BranchName" class="text-danger"></span>
+                    </div>
+                   
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal" id="closeButton">Close</button>
+                <button type="button" class="btn btn-primary" id="saveButton">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        
+        $('#saveButton').click(function () {
+            
+            $('#createForm').submit(); 
+            $('#addcashier').modal('hide'); 
+        });
+        $('#closeButton').click(function () {
+            $('#addcashier').modal('hide'); 
+        });
+        $('#xicon').click(function () {
+            $('#addcashier').modal('hide'); 
+        });
+    });
+</script>

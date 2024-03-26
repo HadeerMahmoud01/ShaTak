@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Desktop\\Post ITI\\Sha Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\controllers\\cashiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\controllers\\cashiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\services\\cashierservices\\cashierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\services\\cashierservices\\cashierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\models\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\models\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\services\\cashierservices\\icashierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\services\\cashierservices\\icashierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\cashier\\deletecashierpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\cashier\\deletecashierpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\services\\invoice\\invoiceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\services\\invoice\\invoiceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\services\\invoice\\iinvoiceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\services\\invoice\\iinvoiceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\cashier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\cashier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\cashier\\editcashierpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\cashier\\editcashierpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\invoice\\deletepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\invoice\\deletepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\invoice\\invoicepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\invoice\\invoicepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\invoice\\editinvoicepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\invoice\\editinvoicepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\cashier\\createcashierpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\cashier\\createcashierpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\base\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\base\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|g:\\desktop\\post iti\\sha task\\sha task\\sha task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73BF4A6E-052E-4D61-992A-9F6FAA47B23B}|Sha Task\\Sha Task.csproj|solutionrelative:sha task\\sha task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceHeader.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\InvoiceHeader.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Models\\InvoiceHeader.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\InvoiceHeader.cs",
+              "RelativeToolTip": "Sha Task\\Models\\InvoiceHeader.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwBUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:57:04.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Base\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Base\\IEntityBase.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Base\\IEntityBase.cs",
+              "RelativeToolTip": "Sha Task\\Base\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:49:57.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Controllers\\InvoiceController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Sha Task\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:07:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Invoice\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\Index.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Invoice\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T22:28:28.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Controllers\\CashierController.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Controllers\\CashierController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Controllers\\CashierController.cs",
+              "RelativeToolTip": "Sha Task\\Controllers\\CashierController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:52:46.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierServices.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\CashierServices\\CashierServices.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Services\\CashierServices\\CashierServices.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\CashierServices\\CashierServices.cs",
+              "RelativeToolTip": "Sha Task\\Services\\CashierServices\\CashierServices.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:55:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Models\\Branch.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\Branch.cs",
+              "RelativeToolTip": "Sha Task\\Models\\Branch.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:56:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Models\\City.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\City.cs",
+              "RelativeToolTip": "Sha Task\\Models\\City.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:46:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\Cashier.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Models\\Cashier.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\Cashier.cs",
+              "RelativeToolTip": "Sha Task\\Models\\Cashier.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:28:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Base\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Base\\EntityBase.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Base\\EntityBase.cs",
+              "RelativeToolTip": "Sha Task\\Base\\EntityBase.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:19:06.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICashierServices.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\CashierServices\\ICashierServices.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Services\\CashierServices\\ICashierServices.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\CashierServices\\ICashierServices.cs",
+              "RelativeToolTip": "Sha Task\\Services\\CashierServices\\ICashierServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvwgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:53:31.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCashierPartialView.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\DeleteCashierPartialView.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Cashier\\DeleteCashierPartialView.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\DeleteCashierPartialView.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Cashier\\DeleteCashierPartialView.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T02:08:19.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceServices.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\Invoice\\InvoiceServices.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Services\\Invoice\\InvoiceServices.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\Invoice\\InvoiceServices.cs",
+              "RelativeToolTip": "Sha Task\\Services\\Invoice\\InvoiceServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:43:51.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Models\\InvoiceDetail.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Models\\InvoiceDetail.cs",
+              "RelativeToolTip": "Sha Task\\Models\\InvoiceDetail.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:57:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInvoiceservices.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\Invoice\\IInvoiceservices.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Services\\Invoice\\IInvoiceservices.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Services\\Invoice\\IInvoiceservices.cs",
+              "RelativeToolTip": "Sha Task\\Services\\Invoice\\IInvoiceservices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:12:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Cashier\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\Index.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Cashier\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:22:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditCashierPartial.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\EditCashierPartial.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Cashier\\EditCashierPartial.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\EditCashierPartial.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Cashier\\EditCashierPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:19:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeletePartialView.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\DeletePartialView.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Invoice\\DeletePartialView.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\DeletePartialView.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Invoice\\DeletePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T00:39:25.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvoicePartial.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\InvoicePartial.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Invoice\\InvoicePartial.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\InvoicePartial.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Invoice\\InvoicePartial.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T02:42:04.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditInvoicePartial.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\EditInvoicePartial.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Invoice\\EditInvoicePartial.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Invoice\\EditInvoicePartial.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Invoice\\EditInvoicePartial.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvzEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T20:10:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T22:10:08.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCashierPartial.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\CreateCashierPartial.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Cashier\\CreateCashierPartial.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Cashier\\CreateCashierPartial.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Cashier\\CreateCashierPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:18:57.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Program.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Program.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Program.cs",
+              "RelativeToolTip": "Sha Task\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:09:49.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBase.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Base\\IBase.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Base\\IBase.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Base\\IBase.cs",
+              "RelativeToolTip": "Sha Task\\Base\\IBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:59:33.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.js",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Sha Task\\wwwroot\\js\\site.js",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Sha Task\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-25T02:55:22.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Sha Task\\appsettings.json",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\appsettings.json",
+              "RelativeToolTip": "Sha Task\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T22:07:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Sha Task\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sha Task\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:07:08.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T22:07:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T22:07:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sha Task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sha Task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T22:07:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sha Task.csproj",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Sha Task.csproj",
+              "RelativeDocumentMoniker": "Sha Task\\Sha Task.csproj",
+              "ToolTip": "G:\\Desktop\\Post ITI\\Sha Task\\Sha Task\\Sha Task.csproj",
+              "RelativeToolTip": "Sha Task\\Sha Task.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T22:49:09.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

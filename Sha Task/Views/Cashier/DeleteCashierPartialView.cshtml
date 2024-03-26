@@ -1,0 +1,45 @@
+﻿@model Cashier
+
+<div class="modal fade" id="deletecashier">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="deletecashierlabel">Are You Sure You Want To Delete?</h4>
+                <button type="button" id="xicon" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+
+            </div>
+            <div class="modal-body">
+                <form action="@Url.Action("Delete")" method="post" id="createForm">
+
+                    <div class="form-group">
+                        <label asp-for="CashierName"></label>
+
+                    </div>
+
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal" id="closeButton">Close</button>
+                <button type="button" class="btn btn-primary" id="saveButton">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        
+        $('#saveButton').click(function () {
+            
+            $('#createForm').submit(); 
+            $('#deletecashier').modal('hide');
+        });
+        $('#closeButton').click(function () {
+            $('#deletecashier').modal('hide'); 
+        });
+        $('#xicon').click(function () {
+            $('#deletecashier').modal('hide');
+        });
+    });
+</script>

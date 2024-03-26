@@ -1,0 +1,45 @@
+﻿@model InvoiceDetail
+
+<div class="modal fade" id="deleteinvoice">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="deleteinvoicelabel">Are You Sure You Want To Delete?</h4>
+                <button type="button" id="xicon" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+
+            </div>
+            <div class="modal-body">
+                <form action="@Url.Action("Delete")" method="post" id="createForm">
+
+                    <div class="form-group">
+                        <label asp-for="ItemName"></label>
+
+                    </div>
+                  
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal" id="closeButton">Close</button>
+                <button type="button" class="btn btn-primary" id="saveButton">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        
+        $('#saveButton').click(function () {
+            
+            $('#createForm').submit(); 
+            $('#deleteinvoice').modal('hide'); 
+        });
+        $('#closeButton').click(function () {
+            $('#deleteinvoice').modal('hide'); 
+        });
+        $('#xicon').click(function () {
+            $('#deleteinvoice').modal('hide'); // Hide the modal
+        });
+    });
+</script>
