@@ -1,60 +1,65 @@
 ﻿@model InvoiceDetail
 
-<div class="modal fade" id="editinvoice">
+<div class="modal fade" id="detailinvoice">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title" id="editinvoicelabel">Edit Invoice</h4>
+                <h4 class="modal-title" id="detailinvoicelabel">Invoice</h4>
                 <button type="button" id="xicon" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
 
             </div>
             <div class="modal-body">
-                <form action="@Url.Action("Edit")" method="post" id="createForm">
+                <form action="@Url.Action("Details")" method="post" id="createForm">
                     <div class="form-group">
                         <label asp-for="ItemName"></label>
-                        <input asp-for="ItemName" class="form-control"  />
-
+                        <input asp-for="ItemName" class="form-control" readonly />
+                       
                     </div>
                     <div class="form-group">
                         <label asp-for="ItemPrice"></label>
-                        <input asp-for="ItemPrice" class="form-control"  />
+                        <input asp-for="ItemPrice" class="form-control" readonly />
 
                     </div>
                     <div class="form-group">
                         <label asp-for="ItemCount"></label>
-                        <input asp-for="ItemCount" class="form-control"  />
+                        <input asp-for="ItemCount" class="form-control" readonly />
 
                     </div>
                     <div class="form-group">
                         <label asp-for="InvoiceHeader.CustomerName"></label>
-                        <input asp-for="InvoiceHeader.CustomerName" class="form-control"  />
+                        <input asp-for="InvoiceHeader.CustomerName" class="form-control" readonly />
 
                     </div>
                     <div class="form-group">
                         <label asp-for="InvoiceHeader.Invoicedate"></label>
-                        <input asp-for="InvoiceHeader.Invoicedate" class="form-control"  />
+                        <input asp-for="InvoiceHeader.Invoicedate" class="form-control" readonly />
 
                     </div>
                     <div class="form-group">
                         <label asp-for="InvoiceHeader.Cashier.CashierName"></label>
-                        <input asp-for="InvoiceHeader.Cashier.CashierName" class="form-control"  />
+                        <input asp-for="InvoiceHeader.Cashier.CashierName" class="form-control" readonly />
 
                     </div>
                     <div class="form-group">
                         <label asp-for="InvoiceHeader.Branch.BranchName"></label>
-                        <input asp-for="InvoiceHeader.Branch.BranchName" class="form-control"  />
-
+                        <input asp-for="InvoiceHeader.Branch.BranchName" class="form-control" readonly />
+                        
                     </div>
                     <div class="form-group">
                         <label asp-for="InvoiceHeader.Branch.City.CityName"></label>
-                        <input asp-for="InvoiceHeader.Branch.City.CityName" class="form-control"  />
+                        <input asp-for="InvoiceHeader.Branch.City.CityName" class="form-control" readonly />
 
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ItemCount"></label>
+                        <input asp-for="ItemCount" class="form-control" />
+                        <span asp-validation-for="ItemCount" class="text-danger"></span>
                     </div>
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal" id="closeButton">Close</button>
-                <button type="button" class="btn btn-primary" id="saveButton">Save</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal" id="closeButton">Ok</button>
+               
             </div>
         </div>
     </div>
@@ -62,17 +67,13 @@
 
 <script>
     $(document).ready(function () {
+
         
-        $('#saveButton').click(function () {
-            
-            $('#createForm').submit(); 
-            $('#editinvoice').modal('hide'); 
-        });
         $('#closeButton').click(function () {
-            $('#editinvoice').modal('hide'); 
+            $('#detailinvoice').modal('hide');
         });
         $('#xicon').click(function () {
-            $('#editinvoice').modal('hide'); 
+            $('#detailinvoice').modal('hide');
         });
     });
 </script>

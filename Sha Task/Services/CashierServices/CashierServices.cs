@@ -16,13 +16,19 @@ namespace Sha_Task.Services.CashierServices
        
         public  async Task<IEnumerable<Cashier>> GetAll()
         {
-            var result= await _context.Cashiers.Include(c => c.Branch).ToListAsync();
+            var result = await _context.Cashiers.Include(c => c.Branch).Where(i=>i.CashierName!="").ToListAsync();
 
             return result;
         }
         public new async Task<IEnumerable<Cashier>> GetALL()
         {
             return await GetAll();
+        }
+        public async Task<Cashier> GetById(int id)
+        {
+            var cashier = await _context.Cashiers.Include(b => b.Branch).FirstOrDefaultAsync();
+            
+            return cashier;
         }
         public async Task Delete(int id)
         {

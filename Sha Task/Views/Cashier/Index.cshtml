@@ -19,7 +19,7 @@
                         <div class="card-header text-white bg-info">
                             <p class="card-text">
                                 <h5 class="card-title">
-                                    @item.CashierName
+                                   @item.CashierName
 
                                 </h5>
                             </p>
@@ -29,7 +29,10 @@
                     <div class="col-md-6">
                         <div class="card-body">
                             <p class="card-text">@item.Branch.BranchName</p>
-                           
+                            <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#detailcashier"
+                                    data-url="@Url.Action($"Details/{item.Id}")">
+                               Details
+                            </button>
                             <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#editcashier"
                                     data-url="@Url.Action($"Edit/{item.Id}")">
                                 Edit

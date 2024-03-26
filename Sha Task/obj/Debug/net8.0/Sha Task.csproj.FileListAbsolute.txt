@@ -554,3 +554,4 @@ G:\Desktop\Post ITI\Sha Task\Sha Task\bin\Debug\net8.0\runtimes\win\lib\net7.0\M
 G:\Desktop\Post ITI\Sha Task\Sha Task\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 G:\Desktop\Post ITI\Sha Task\Sha Task\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 G:\Desktop\Post ITI\Sha Task\Sha Task\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\Desktop\Post ITI\Sha Task\Sha Task\obj\Debug\net8.0\Sha Task.sourcelink.json

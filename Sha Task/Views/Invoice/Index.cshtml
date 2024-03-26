@@ -28,9 +28,13 @@ data-url="@Url.Action("Create")">
                   
                     <div class="col-md-6">
                         <div class="card-body">
-                            <p class="card-text">@item.ItemPrice</p>
-                            <p class="card-text"><b>Cinema: </b>@item.ItemCount</p>
-                            <p class="card-text"><b>Category: </b>@item.InvoiceHeader.Branch.BranchName</p>
+                            <p class="card-text"><b>ItemPrice: </b>@item.ItemPrice</p>
+                            <p class="card-text"><b>ItemCount: </b>@item.ItemCount</p>
+                            
+                            <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#detailinvoice"
+                                    data-url="@Url.Action($"Details/{item.Id}")">
+                               Details
+                            </button>
                             <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#editinvoice"
                                     data-url="@Url.Action($"Edit/{item.Id}")">
                                 Edit

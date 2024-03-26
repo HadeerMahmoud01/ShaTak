@@ -24,5 +24,11 @@ namespace Sha_Task.Services.Invoice
       
 
         }
+        public async Task<InvoiceDetail> GetById(int id)
+        {
+            var result= await _context.InvoiceDetails.Include(i=>i.InvoiceHeader).ThenInclude(x=>x.Cashier).ThenInclude(x=>x.Branch).ThenInclude(b=>b.City).FirstOrDefaultAsync();
+            return result;
+        }
+        
     }
 }

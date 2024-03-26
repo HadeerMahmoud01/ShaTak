@@ -1,0 +1,45 @@
+﻿@model Cashier
+
+<div class="modal fade" id="detailcashier">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="detailinvoicelabel"> Cashier</h4>
+                <button type="button" id="xicon" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+
+            </div>
+            <div class="modal-body">
+                <form action="@Url.Action("Detail")" method="post" id="createForm">
+                    <div class="form-group">
+                        <label asp-for="CashierName"></label>
+                        <input asp-for="CashierName" class="form-control" readonly />
+                        
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.Branch.BranchName"></label>
+                        <input asp-for="@Model.Branch.BranchName" class="form-control" readonly />
+                       
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal" id="closeButton">Ok</button>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+    
+        $('#closeButton').click(function () {
+            $('#detailcashier').modal('hide');
+        });
+        $('#xicon').click(function () {
+            $('#detailcashier').modal('hide');
+        });
+    });
+</script>

@@ -54,6 +54,22 @@ namespace Sha_Task.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public async Task<IActionResult>Details(int id)
+        {
+            var cashier = await _cashier.GetById(id);
+            return PartialView("DetailsCashierPartial", cashier);
+
+        }
+        [HttpPost]
+        public async Task<IActionResult> Details(Cashier cashierDetails)
+        {
+            var cashier = await _cashier.GetById(cashierDetails.Id);
+            return RedirectToAction("Index");
+
+        }
+
         public async Task<IActionResult> Delete(int Id)
         {
             var result = await _cashier.GetById(Id);

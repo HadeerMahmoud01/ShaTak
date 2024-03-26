@@ -37,6 +37,23 @@ namespace Sha_Task.Controllers
 
         }
         [HttpGet]
+        public async Task<IActionResult> Details(int id)
+        {
+            var invoice=await _invoiceDetail.GetById(id);
+            return PartialView("DetailInvoicePartial", invoice);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Details(InvoiceDetail invoice)
+        {
+            var invoiceDetail=await _invoiceDetail.GetById((int)invoice.Id);
+            return RedirectToAction("Index");
+        }
+
+
+
+
+        [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
             var invoice=await _invoiceDetail.GetById(id);
